@@ -1,2 +1,2 @@
 # RestAPI
-Welcome to 'Rest API'!!! This repository provides guidance on how to implement Rest API's for Power BI within a notebook.  
+There are few steps involved in calling a REST API from within a notebook, which shall be covered wtihin this repository.   
